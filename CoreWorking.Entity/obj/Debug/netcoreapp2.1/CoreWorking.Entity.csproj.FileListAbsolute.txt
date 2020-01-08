@@ -1,0 +1,16 @@
+C:\Users\Yceo\source\repos\CoreWorking\CoreWorking.Entity\bin\Debug\netcoreapp2.1\CoreWorking.Entity.deps.json
+C:\Users\Yceo\source\repos\CoreWorking\CoreWorking.Entity\bin\Debug\netcoreapp2.1\CoreWorking.Entity.dll
+C:\Users\Yceo\source\repos\CoreWorking\CoreWorking.Entity\bin\Debug\netcoreapp2.1\CoreWorking.Entity.pdb
+C:\Users\Yceo\source\repos\CoreWorking\CoreWorking.Entity\obj\Debug\netcoreapp2.1\CoreWorking.Entity.csprojAssemblyReference.cache
+C:\Users\Yceo\source\repos\CoreWorking\CoreWorking.Entity\obj\Debug\netcoreapp2.1\CoreWorking.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Yceo\source\repos\CoreWorking\CoreWorking.Entity\obj\Debug\netcoreapp2.1\CoreWorking.Entity.AssemblyInfoInputs.cache
+C:\Users\Yceo\source\repos\CoreWorking\CoreWorking.Entity\obj\Debug\netcoreapp2.1\CoreWorking.Entity.AssemblyInfo.cs
+C:\Users\Yceo\source\repos\CoreWorking\CoreWorking.Entity\obj\Debug\netcoreapp2.1\CoreWorking.Entity.dll
+C:\Users\Yceo\source\repos\CoreWorking\CoreWorking.Entity\obj\Debug\netcoreapp2.1\CoreWorking.Entity.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\CoreWorking\CoreWorking\CoreWorking.Entity\bin\Debug\netcoreapp2.1\CoreWorking.Entity.deps.json
+C:\Users\ahmet\OneDrive\Masaüstü\CoreWorking\CoreWorking\CoreWorking.Entity\bin\Debug\netcoreapp2.1\CoreWorking.Entity.dll
+C:\Users\ahmet\OneDrive\Masaüstü\CoreWorking\CoreWorking\CoreWorking.Entity\bin\Debug\netcoreapp2.1\CoreWorking.Entity.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\CoreWorking\CoreWorking\CoreWorking.Entity\obj\Debug\netcoreapp2.1\CoreWorking.Entity.AssemblyInfoInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\CoreWorking\CoreWorking\CoreWorking.Entity\obj\Debug\netcoreapp2.1\CoreWorking.Entity.AssemblyInfo.cs
+C:\Users\ahmet\OneDrive\Masaüstü\CoreWorking\CoreWorking\CoreWorking.Entity\obj\Debug\netcoreapp2.1\CoreWorking.Entity.dll
+C:\Users\ahmet\OneDrive\Masaüstü\CoreWorking\CoreWorking\CoreWorking.Entity\obj\Debug\netcoreapp2.1\CoreWorking.Entity.pdb

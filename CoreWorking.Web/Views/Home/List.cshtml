@@ -1,0 +1,30 @@
+﻿@model List<CoreWorking.Entity.Model.User>
+@{
+    ViewData["Title"] = "List";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Ad Soyad</th>
+            <th scope="col">Mail</th>
+            <th scope="col">Sifre</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @{
+            for (int i = 0; i < Model.Count; i++)
+            {
+                <tr>
+                    <th scope="row">@Model[i].Id</th>
+                    <td>@Model[i].Name @Model[i].Surname</td>
+                    <td>@Model[i].Mail</td>
+                    <td>@Model[i].Password</td>
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>
